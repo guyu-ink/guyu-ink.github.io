@@ -1,1 +1,10 @@
+title:        "GUYU"
+tagline:      "the remote link tool"
+baseurl:      ""
+paginate:     1
+weburl:       https://guyu-ink.github.io
+
+author:
+  name:       guyu
+  url:        https://guyu-ink.github.io
 theme: jekyll-theme-cayman
